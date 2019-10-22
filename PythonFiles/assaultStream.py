@@ -20,11 +20,12 @@ c.execute('SET NAMES utf8;')
 c.execute('SET CHARACTER SET utf8;')
 c.execute('SET character_set_connection=utf8;')
 
-#  Twitter API authentication tokens, used for OAuth
-ckey = "IrcrVDFJXUWfGqpAC8Znd2Y8W"
-csecret = "IEQd2VnB4Q82kTNk0vy3c19AJ31DcONUVSKv8Vv60f0dPahQtd"
-atoken = "21247306-I05SKT6o9HLgQDZjcEOiCIZVdhZWQwhJdm6zF6rTk"
-asecret = "4QVdRqsE3u40wy4aJul5Op9Xfb6VOscDPx8Hq1NTkW8vl"
+#  Twitter API authentication tokens, used for OAuth removed
+# removed from repo for obvious security reasons
+ckey = ""
+csecret = ""
+atoken = ""
+asecret = ""
 
 
 #################################
